@@ -1,0 +1,12 @@
+.row {
+  border: 1px solid #000;
+  display: inline-flex;
+  padding: 20px;
+  margin: 5px;
+  height: 150px;
+  width: 200px;
+}
+
+.chk__box {
+  margin-left: 10px;
+}
